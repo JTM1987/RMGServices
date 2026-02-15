@@ -1,0 +1,5 @@
+# Netlify deployment config
+# Deploy: drag & drop this folder to app.netlify.com, or connect your Git repo
+
+[build]
+  publish = "."
